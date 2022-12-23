@@ -10,7 +10,7 @@ seeing if that's a better method writ large.
 Almost all of my CSharp 'knowledge' will come from three sources
 
 1. Richter's CLR Via C#
-2. My work with CSharp
+2. MS [Learn](https://learn.microsoft.com/en-us)
 3. My [notes](https://github.com/microsoft/Flash_University/tree/main/CLR_via_CSharp) on CLR via C#
 
 ## How to go through this
