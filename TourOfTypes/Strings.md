@@ -51,7 +51,7 @@ This is the classic "echo" program. it will return whatever the user types in.
 
 ## HW
 
-### Project 1
+### Problem 1
 Create a program that communicates with a user. It should ask the user their name, birthday, favorite animal and then print out some summarizing statement that looks something like 
 ```
 What's your name? Name
@@ -60,5 +60,5 @@ What's your favorite animal? donkey
 
 Hello Name, it's nice to meet you. Your birthday is __/__/__ Wow, mine too. Your favorite animal is a donkey, so is mine. What can I say, we're both asinine.
 ```
-It should work for any input and must query the user with questions. So 
+It should work for any input and must query the user with questions. It will be graded based on how it runs with random inputs.
 
