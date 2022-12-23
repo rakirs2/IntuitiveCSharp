@@ -1,0 +1,11 @@
+# Basics
+
+## History
+If you look up any list of "most popular languages" you'll see a few common languages. 
+Javascript (the language of the Web), Java (historically popular backend language and the second language I learned), Python (A general purpose language) and then some combination of C++ and C#.
+C# is somewhat mockingly called "Microsoft Java" which is more true than not. Both were derived from C and C++ and share a lot of similiar syntactical traits as well as compilation stucture. However, C# is a little more, well, to this writer, beautiful.
+Anyways, the creator of C# is one of my idols, Anders Hejlsberg and quite frankly, I almost always prefer to use languages that he designed (So today, C# and Typescript).
+
+## Program Basics
+
+A CSharp Program will always need a place to tell the computer "where to start looking to run the code". Historically, that was in  something called the "main" block.
