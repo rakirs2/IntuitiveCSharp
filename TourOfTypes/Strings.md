@@ -2,7 +2,11 @@
 
 ## What is a string?
 
-> “It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair.”
+> “It was the best of times, it was the worst of times, 
+> it was the age of wisdom, it was the age of foolishness, 
+> it was the epoch of belief, it was the epoch of incredulity, 
+> it was the season of light, it was the season of darkness, 
+> it was the spring of hope, it was the winter of despair.”
 
 This is the opening to a tale of two cities, arguably the best opening of any book ever. That's really not that important. Here, what I want to focus on is the way we capture "a block of text" that we are saying has a given value.
 
