@@ -21,3 +21,13 @@ In this case, the student had a working understanding of powershell and cmd befo
 I tend to focus on one topic, 1 set of problems per session. Unforutnately, that will make the sequencing kind of hard but that's ok.
 
 Finally, I want to focus on fun and building shit. I am overcorrecting for probably a too difficult intro so we're going to be doing a lot of "confidence build up" projects.
+
+## Syllabus
+
+We're going to have a "tour of types" with a few different projects. And then we're going to go deeper into the systems.
+
+### Rules of Engagement
+
+All homework will be graded first from the student's computer in session and on github.
+
+All help/code must be accessible via github. No screenshots, no emails of code if possible.
