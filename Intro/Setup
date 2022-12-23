@@ -5,3 +5,9 @@ The student has a windows computer. We simply installed VS on the computer and a
 ## Git/Github
 
 We're using github for all software. This will give the student version control/ability to post their own and retrieve their code from anywhere. 
+
+Student must have their own Account to post to. They can make all of their repos private and share with teacher as needed.
+
+## Hardware requirements
+
+This is one of the few times that the computer might need to be a little stronger as it's [Visual Studio](https://visualstudio.microsoft.com). That being said, we can revert to Rider/etc. later if it's not working
