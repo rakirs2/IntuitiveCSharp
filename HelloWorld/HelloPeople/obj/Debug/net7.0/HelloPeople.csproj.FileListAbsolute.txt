@@ -1,0 +1,14 @@
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\bin\Debug\net7.0\HelloPeople.exe
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\bin\Debug\net7.0\HelloPeople.deps.json
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\bin\Debug\net7.0\HelloPeople.runtimeconfig.json
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\bin\Debug\net7.0\HelloPeople.dll
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\bin\Debug\net7.0\HelloPeople.pdb
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\HelloPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\HelloPeople.AssemblyInfoInputs.cache
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\HelloPeople.AssemblyInfo.cs
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\HelloPeople.csproj.CoreCompileInputs.cache
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\HelloPeople.dll
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\refint\HelloPeople.dll
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\HelloPeople.pdb
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\HelloPeople.genruntimeconfig.cache
+C:\Users\srmylavarapu\github\intuitivecsharp\HelloWorld\HelloPeople\obj\Debug\net7.0\ref\HelloPeople.dll
