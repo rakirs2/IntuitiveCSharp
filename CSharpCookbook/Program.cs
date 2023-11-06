@@ -1,0 +1,3 @@
+﻿uint temp = 0x00;
+
+uint known = 0x00;
