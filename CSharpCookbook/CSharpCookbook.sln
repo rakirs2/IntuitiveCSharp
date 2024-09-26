@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PushToCallContext", "PushTo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interlocked", "Interlocked\Interlocked.csproj", "{54DF50FE-ADA3-49A0-BF55-D4D6BAFEC471}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cases", "Basics\Cases.csproj", "{82CA8FB3-3BAF-4958-907D-3800E34F9782}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectConstruction", "ObjectConstruction\ObjectConstruction.csproj", "{32467675-D8DF-4C9C-80E6-9AA5A011BC39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{54DF50FE-ADA3-49A0-BF55-D4D6BAFEC471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DF50FE-ADA3-49A0-BF55-D4D6BAFEC471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DF50FE-ADA3-49A0-BF55-D4D6BAFEC471}.Release|Any CPU.Build.0 = Release|Any CPU
-		{82CA8FB3-3BAF-4958-907D-3800E34F9782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82CA8FB3-3BAF-4958-907D-3800E34F9782}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82CA8FB3-3BAF-4958-907D-3800E34F9782}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82CA8FB3-3BAF-4958-907D-3800E34F9782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32467675-D8DF-4C9C-80E6-9AA5A011BC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32467675-D8DF-4C9C-80E6-9AA5A011BC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32467675-D8DF-4C9C-80E6-9AA5A011BC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32467675-D8DF-4C9C-80E6-9AA5A011BC39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
