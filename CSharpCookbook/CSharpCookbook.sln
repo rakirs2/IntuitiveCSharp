@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moq", "Moq\Moq.csproj", "{A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqTests", "MoqTests\MoqTests.csproj", "{181B812A-AB0C-4BD4-AB8E-13BD40010D69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable", "Nullable\Nullable.csproj", "{9C82CE37-9B57-4B82-8AB1-FC98078560E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullable", "Nullable\Nullable.csproj", "{9C82CE37-9B57-4B82-8AB1-FC98078560E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream", "Stream\Stream.csproj", "{920879DB-4AC1-42A1-908F-21956C438C6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{9C82CE37-9B57-4B82-8AB1-FC98078560E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C82CE37-9B57-4B82-8AB1-FC98078560E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C82CE37-9B57-4B82-8AB1-FC98078560E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920879DB-4AC1-42A1-908F-21956C438C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920879DB-4AC1-42A1-908F-21956C438C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920879DB-4AC1-42A1-908F-21956C438C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920879DB-4AC1-42A1-908F-21956C438C6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
