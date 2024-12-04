@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqTests", "MoqTests\MoqTes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullable", "Nullable\Nullable.csproj", "{9C82CE37-9B57-4B82-8AB1-FC98078560E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream", "Stream\Stream.csproj", "{920879DB-4AC1-42A1-908F-21956C438C6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stream", "Stream\Stream.csproj", "{920879DB-4AC1-42A1-908F-21956C438C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypeNullability", "ReferenceTypeNullability\ReferenceTypeNullability.csproj", "{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{920879DB-4AC1-42A1-908F-21956C438C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{920879DB-4AC1-42A1-908F-21956C438C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{920879DB-4AC1-42A1-908F-21956C438C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
