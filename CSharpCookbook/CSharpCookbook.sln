@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locking", "Locking\Locking.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypeNullability", "ReferenceTypeNullability\ReferenceTypeNullability.csproj", "{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringComparison", "StringComparison\StringComparison.csproj", "{B395A18B-F63D-4BB0-A37A-EECEB6611F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D44840D8-9CD4-4AB8-B529-8CB3F9C9B93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B395A18B-F63D-4BB0-A37A-EECEB6611F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B395A18B-F63D-4BB0-A37A-EECEB6611F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B395A18B-F63D-4BB0-A37A-EECEB6611F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B395A18B-F63D-4BB0-A37A-EECEB6611F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
