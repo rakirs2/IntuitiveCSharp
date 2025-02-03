@@ -1,8 +1,6 @@
-﻿using Moq;
-
-namespace Tests
+﻿namespace Tests
 {
-    [TestClass()]
+    [TestClass]
     public class MyProgramTests
     {
         [TestMethod]
@@ -15,6 +13,22 @@ namespace Tests
         public void GetLastNameTest()
         {
             Assert.Fail();
+        }
+
+        [TestMethod]
+        public void TryCatch()
+        {
+            try
+            {
+                Assert.Fail();
+            }
+            catch
+            {
+                throw;
+            }
+            finally {
+               // Yes
+            }
         }
 
         //[TestMethod]

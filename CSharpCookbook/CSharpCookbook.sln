@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringComparison", "StringC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchWithUnitTests", "TryCatchWithUnitTests\TryCatchWithUnitTests.csproj", "{3D063DA8-B0AE-47A3-B600-C211A7FE6B8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakReference", "WeakReference\WeakReference.csproj", "{DB505478-F677-406E-BC1E-08B70F16B370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3D063DA8-B0AE-47A3-B600-C211A7FE6B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D063DA8-B0AE-47A3-B600-C211A7FE6B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D063DA8-B0AE-47A3-B600-C211A7FE6B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB505478-F677-406E-BC1E-08B70F16B370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB505478-F677-406E-BC1E-08B70F16B370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB505478-F677-406E-BC1E-08B70F16B370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB505478-F677-406E-BC1E-08B70F16B370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
