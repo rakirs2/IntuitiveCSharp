@@ -1,20 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Diagnostics;
+using MultiThreadedCounting;
 
 Random random = new Random();
 // int32.max is less than what I'm going for here;
-int totalNumbers = 1000000;
-
-long runningTotal = 0;
-long output = 0;
-var allValues = new int[totalNumbers];
-for (int i = 0; i < totalNumbers; i++)
-{
-    var number = random.Next(0, 100);
-    allValues[i]= number;
-    runningTotal += number;
-}
+int totalNumbers = 1000000000;
+var allValues = NumberGeneration.GenerateIntegerArray(lowerBound: 0, upperBound: 5, count: totalNumbers, out long runningTotal);
+int output = 0;
 
 Stopwatch stopwatch = new Stopwatch();
 stopwatch.Start();
@@ -33,3 +26,6 @@ int totalOfArrayLinq = allValues
     .Sum();
 stopwatch.Stop();
 Console.WriteLine($"Time Elapsed: {stopwatch.ElapsedTicks}, totalExpected: {runningTotal}, actual: {totalOfArrayLinq}");
+
+// So this is actually less performant?
+// OK, so it depends on size. What if we really max it out?
