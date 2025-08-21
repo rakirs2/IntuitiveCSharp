@@ -1,12 +1,11 @@
-﻿static void SomeMethod(ref SomeClass someClass)
+﻿static void SomeMethod(ref SomeClass? someClass)
 {
     someClass = null;
 }
 
 
-static void SomeNullableMethod(SomeClass? someClass)
+static void SomeNullableMethod()
 {
-    someClass = null;
 }
 
 var thing = new SomeClass();
@@ -18,10 +17,11 @@ Console.WriteLine(thing);
 
 var thing2 = new SomeClass();
 
-SomeNullableMethod(thing2);
+SomeNullableMethod();
 
 Console.WriteLine(thing2);
 
-class SomeClass{
+class SomeClass
+{
 }
 

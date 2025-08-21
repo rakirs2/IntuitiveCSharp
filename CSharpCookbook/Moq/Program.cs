@@ -2,14 +2,14 @@
 
 var program = new MyProgram();
 
-Console.WriteLine(program.Hello("name"));
+Console.WriteLine(program.Hello());
 
 namespace CSharpCookBook.MoqTests
 {
     public class MyProgram
     {
 
-        public string Hello(string name)
+        public string Hello()
         {
             string lastName = GetLastName();
 

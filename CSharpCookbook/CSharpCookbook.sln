@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchWithUnitTests", "Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakReference", "WeakReference\WeakReference.csproj", "{DB505478-F677-406E-BC1E-08B70F16B370}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExecutable", "SimpleExecutable\SimpleExecutable.csproj", "{C1B66442-278E-4546-9D24-805C01C4AA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExecutableTests", "SimpleExecutableTests\SimpleExecutableTests.csproj", "{C2EC9D40-A0E9-4D6D-90D9-08CF5A45E2F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{DB505478-F677-406E-BC1E-08B70F16B370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB505478-F677-406E-BC1E-08B70F16B370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB505478-F677-406E-BC1E-08B70F16B370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B66442-278E-4546-9D24-805C01C4AA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B66442-278E-4546-9D24-805C01C4AA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B66442-278E-4546-9D24-805C01C4AA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B66442-278E-4546-9D24-805C01C4AA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EC9D40-A0E9-4D6D-90D9-08CF5A45E2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EC9D40-A0E9-4D6D-90D9-08CF5A45E2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EC9D40-A0E9-4D6D-90D9-08CF5A45E2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EC9D40-A0E9-4D6D-90D9-08CF5A45E2F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
